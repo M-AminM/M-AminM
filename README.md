@@ -1,6 +1,5 @@
-- 👋 Hi, I’m AminScript
-- 👀 I’m interested in java and python
-- 🌱 I’m currently learning web progamming
+- 👋 Hi, I’m AminM
+- 👀 I’m interested in java and python and web programming
 - 📫 How to reach me:
 
 <p align='center'>
