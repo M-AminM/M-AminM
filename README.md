@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AminM
-- 👀 I’m interested in java and python and web programming
+- 👀 I’m interested in java, python and web programming
 - 📫 How to reach me:
 
 <p align='center'>
