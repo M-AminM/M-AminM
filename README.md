@@ -10,7 +10,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:aminfarid1234@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://www.telegram.me/M_AminMM)
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:aminfarid1234@gmail.com)&nbsp;&nbsp;[![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://www.telegram.me/M_AminMM)
 
   💻**languages and tools:**  
 <p align="center">
