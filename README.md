@@ -11,6 +11,7 @@
 ### Technologies
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/>
 
 
 <p align='center'>
