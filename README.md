@@ -11,7 +11,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-**languages and tools:**  
+💻**languages and tools:**  
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/>
