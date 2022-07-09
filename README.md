@@ -1,6 +1,17 @@
 - 👋 Hi, I’m AminM
 - 👀 I’m interested in java, python and web programming
 - 📫 How to reach me:
+### Languages
+
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+
+### Technologies
+
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+
 
 <p align='center'>
   <a href="mailto:aminfarid1234@gmail.com">
