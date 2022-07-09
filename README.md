@@ -10,8 +10,6 @@
   </a>&nbsp;&nbsp;
 </p>
 
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:aminfarid1234@gmail.com)&nbsp;&nbsp;[![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://www.telegram.me/M_AminMM)
-
   💻**languages and tools:**  
 <p align="center">
       <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" style="width: 100px; display: block; opacity: 1;">
