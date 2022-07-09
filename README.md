@@ -10,8 +10,9 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
-- 🧑‍💻 Tech I work on :
-- 📫 How to reach me:
+
+**languages and tools:**  
+
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="65" height="65"/>
