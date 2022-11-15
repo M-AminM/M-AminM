@@ -18,7 +18,7 @@
   
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="65" height="65"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="ts"  width="65" height="65"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="ts" style="border-radius:25%" width="65" height="65"/>
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="65" height="65"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="gi" width="65" height="65"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/>
