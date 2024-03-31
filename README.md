@@ -21,6 +21,6 @@
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="ts" style="border-radius:25%" width="65" height="65"/>
   <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="65" height="65"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="gi" width="65" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/>
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" width="65" height="65"/>
   
 </p>
