@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AminM
+- 👋 Hi, I’m Amin
 - 📫 How to reach me:
 
 <p align='center'>
