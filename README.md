@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amin
 - 📫 How to reach me:
 
-<p align='center'>
+<p>
   <a href="mailto:aminfarid1234@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -12,7 +12,7 @@
 
   💻**languages and tools:**  
 
-<p style="display: flex;justify-content: center;align-items: center;gap: 12px;flex-wrap: wrap;">
+<p align='center'>
    
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" style="border-radius:25%" width="65" height="65"/>
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" style="border-radius:25%" width="65" height="65"/>
